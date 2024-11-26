@@ -14,9 +14,9 @@ Database:MySQL
 
 **The system has three modules**
 
-Donor
+**Donor:** Donor module contains login page as well as the donate now page where the donor needs to specify the details of extra food.
 
-User
+**User:** User needs to register and login into the account where they will be having the food info page where the extra food details and the information of donors will be visible.
 
-Admin
+**Admin:** 
 
