@@ -48,3 +48,7 @@ The web application facilitates charity by connecting donors with NGOs and indiv
 
 • Add/Delete users
 
+![index](https://github.com/user-attachments/assets/928d8903-3b74-4c39-a382-0c19b013162f)
+
+![inab](https://github.com/user-attachments/assets/ebb9a57d-1f11-4830-b8eb-954a61bf9191)
+![incon](https://github.com/user-attachments/assets/5f5a6c14-cd07-43fd-844e-e8cd63e89c01)
