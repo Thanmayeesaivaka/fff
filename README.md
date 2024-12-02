@@ -18,5 +18,9 @@ Database:MySQL
 
 **User:** User needs to register and login into the account where they will be having the food info page where the extra food details and the information of donors will be visible.
 
-**Admin:** 
+**Admin:** Admin manages the Database Operations and he is responsible for View user details
+• View donor details
+• Manage databases
+• Add/Delete donors
+• Add/Delete users
 
