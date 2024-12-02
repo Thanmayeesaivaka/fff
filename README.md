@@ -4,13 +4,13 @@ The web application facilitates charity by connecting donors with NGOs and indiv
 
 **Tools and Technologies**
 
-Frontend:HTML,CSS,JavaScript
+• Frontend:HTML,CSS,JavaScript
 
-Backend:php
+• Backend:php
 
-Webserver:xampp server
+• Webserver:xampp server
 
-Database:MySQL
+• Database:MySQL
 
 **The system has three modules**
 
@@ -19,8 +19,12 @@ Database:MySQL
 **User:** User needs to register and login into the account where they will be having the food info page where the extra food details and the information of donors will be visible.
 
 **Admin:** Admin manages the Database Operations and he is responsible for View user details
+
 • View donor details
+
 • Manage databases
+
 • Add/Delete donors
+
 • Add/Delete users
 
