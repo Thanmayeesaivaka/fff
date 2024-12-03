@@ -97,7 +97,24 @@ If the selected role is 'user', the following webpages will be visible.
 In this page, both food details and donor details are visible. If you want a particular food, you should click the 'Hide' button and contact the donor . Once you click 'Hide', the background color of that food item will change to indicate that it has been taken, and if another user is viewing the website, they will see that the food is no longer available. If you decide you do not want the food, clicking the 'Reset' button will revert the changes.
 
 As you can see in the top right corner of the donor home page, the dropdown menu contains options for 'Logout' and 'Help.' Clicking on 'Logout' will redirect you to the main index page, while clicking on 'Help' will take you to the following page with a chatbot that can assist with any questions you may have.
-![chat](https://github.com/user-attachments/assets/66a38bce-da1f-4590-bd12-6ae16fbc4729)
+**Help Page:**
+![chat](https://github.com/user-attachments/assets/67292bf8-a4e0-4c8f-bf4d-e0c27fc35369)
+
+**Features:**
+
+-Chatbot Support
+
+-Secured Login
+
+**How To Run:**
+-Download the project zip file
+-Extract the file and copy the folder
+-Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)
+-Open PHPMyAdmin (http://localhost/phpmyadmin)
+-Create a database
+-Import demo.sql file
+-Run the script http://localhost/folderName
+
 
 
 
