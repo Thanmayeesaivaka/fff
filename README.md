@@ -1,53 +1,44 @@
 
-**Food waste management system**
+Here’s the corrected version of your description:
 
-The web application facilitates charity by connecting donors with NGOs and individuals in need. Donors can create accounts, list excess items like food and make them visible to those in need, enabling direct contact for donations.
+---
+
+**Food Waste Management System**
+
+This web application facilitates charity by connecting donors with NGOs and individuals in need. Donors can create accounts, list excess items like food, and make them visible to those in need, enabling direct contact for donations.
 
 **Tools and Technologies**
 
-• Frontend:HTML,CSS,JavaScript
+• **Frontend**: HTML, CSS, JavaScript  
+• **Backend**: PHP  
+• **Web Server**: XAMPP Server  
+• **Database**: MySQL
 
-• Backend:php
+**The system consists of three modules:**
 
-• Webserver:xampp server
+**Donor:** The donor module includes the login page and the donate now page, where donors specify the details of their excess food.
 
-• Database:MySQL
+- Register
+- Login
+- Donate Now (Donation page)
+- Update
+- Logout
 
-**The system has three modules**
+**User:** Users must register and log in to their accounts. They will have access to a food info page where the details of excess food and information about donors will be visible.
 
-**Donor:** Donor module contains login page as well as the donate now page where the donor needs to specify the details of extra food.
+- Registration
+- Login
+- View food and donor details
+- Update
+- Logout
 
-• Register
+**Admin:** The admin manages database operations.
 
-• Login
+- View donor details
+- Manage food details
+- Add/Delete donors
+- Add/Delete users
 
-• Donate_now(donation page)
-
-• Update
-
-• Logout
-
-**User:** User needs to register and login into the account where they will be having the food info page where the extra food details and the information of donors will be visible.
-
-• Registration
-
-• Login
-
-• View details of food & donor
-
-• Update
-
-• Logout
-
-**Admin:** Admin manages the Database Operations and he is responsible for View user details
-
-• View donor details
-
-• Manage Food details
-
-• Add/Delete donors
-
-• Add/Delete users
 
 **Main Page :**
 ![1](https://github.com/user-attachments/assets/a24be4da-742a-41e9-b1ab-7fbb4eb84196)
@@ -70,6 +61,8 @@ First, the person should select their role as either a user or donor. If they ar
 
 **Forgot Paasword Page:**
 ![fo](https://github.com/user-attachments/assets/dab3cfca-e368-4aba-95fa-d1ee8ed03a01)
+
+On clicking the **back to login** it will be redirected to login page.
 
 Depending on the role, the webpages will be adjusted to maintain security. If the role is 'donor' the following webpages will be shown.
 
@@ -103,6 +96,8 @@ If the selected role is 'user', the following webpages will be visible.
 
 In this page, both food details and donor details are visible. If you want a particular food, you should click the 'Hide' button and contact the donor . Once you click 'Hide', the background color of that food item will change to indicate that it has been taken, and if another user is viewing the website, they will see that the food is no longer available. If you decide you do not want the food, clicking the 'Reset' button will revert the changes.
 
+As you can see in the top right corner of the donor home page, the dropdown menu contains options for 'Logout' and 'Help.' Clicking on 'Logout' will redirect you to the main index page, while clicking on 'Help' will take you to the following page with a chatbot that can assist with any questions you may have.
+![chat](https://github.com/user-attachments/assets/66a38bce-da1f-4590-bd12-6ae16fbc4729)
 
 
 
