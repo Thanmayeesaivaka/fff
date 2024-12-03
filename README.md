@@ -107,12 +107,19 @@ As you can see in the top right corner of the donor home page, the dropdown menu
 -Secured Login
 
 **How To Run:**
+
 -Download the project zip file
+
 -Extract the file and copy the folder
+
 -Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)
+
 -Open PHPMyAdmin (http://localhost/phpmyadmin)
+
 -Create a database
+
 -Import demo.sql file
+
 -Run the script http://localhost/folderName
 
 
