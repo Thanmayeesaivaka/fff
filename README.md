@@ -49,16 +49,17 @@ The web application facilitates charity by connecting donors with NGOs and indiv
 
 • Add/Delete users
 
-**Main Page**
+**Main Page :**
+![1](https://github.com/user-attachments/assets/a24be4da-742a-41e9-b1ab-7fbb4eb84196)
 
-**Home Page**
-![index](https://github.com/user-attachments/assets/928d8903-3b74-4c39-a382-0c19b013162f)
+**About Us Page :**
+![2](https://github.com/user-attachments/assets/359bf26a-9073-4446-aaab-2c88d3e00c21)
 
-**About Us Page** - Moto of the  website
+**Contact Us Page:**
+![3](https://github.com/user-attachments/assets/670ad9cf-fed0-4f71-a05b-207b293ecdd1)
 
-![inab](https://github.com/user-attachments/assets/ebb9a57d-1f11-4830-b8eb-954a61bf9191)
+The three pages above are the basic pages that are initially visible to new users of the website, allowing them to learn more about the website. Afterward, they need to log in. To do this, they should go to the index page, click on the icon, and then click the login button, which will redirect them to the login page.
 
-**Contact Us Page** 
-
-![incon](https://github.com/user-attachments/assets/5f5a6c14-cd07-43fd-844e-e8cd63e89c01)
+**Login Page:**
+![lo](https://github.com/user-attachments/assets/19667956-e4bd-4af9-b14c-1d7649f4ecea)
 
