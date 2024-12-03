@@ -63,3 +63,11 @@ The three pages above are the basic pages that are initially visible to new user
 **Login Page:**
 ![lo](https://github.com/user-attachments/assets/19667956-e4bd-4af9-b14c-1d7649f4ecea)
 
+First, the person should select their role as either a user or donor. If they are new to the website, they should click on the 'Register Now' button, which will redirect them to the registration page. In case they have forgotten their password, they should click on the 'Forgot Password' button, which will take them to the password reset page.
+**Register Now Page:**
+![reg](https://github.com/user-attachments/assets/15ab902f-a95f-4443-a5a2-489b1c9abd60)
+
+**Forgot Paasword Page:**
+![fo](https://github.com/user-attachments/assets/dab3cfca-e368-4aba-95fa-d1ee8ed03a01)
+
+Depending on the role, the webpages will be adjusted to maintain security. If the role is 'donor' the following webpages will be shown.
